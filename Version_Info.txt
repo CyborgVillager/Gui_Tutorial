@@ -29,11 +29,15 @@ v1: Source Folder Import & tkint_version0.py
         Lastly created a file window_tkinter0.py that will make a window to pop up
 
 
---v2 Quit Button Placement: created a .py file named button_tkinter1.py in which contains a quit button as well
+v2 Quit Button Placement: created a .py file named button_tkinter1.py in which contains a quit button as well
                                 its relative location to the windows max size, and included a custom title for the
                                 opened window as well
--wor:v3:
-v4:
+
+--:v3 Quit Button Functionality Activated: created a file named quit_button_functionality_tkinter2.py
+                                            This example will allow the user to click on the button 'Quit' to close
+                                            the program, instead of pressing the X on the top right of the window, they
+                                            can click the button 'Quit' as a replacement
+-wor:v4:
 v5:
 v6:
 v7:

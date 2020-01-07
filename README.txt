@@ -11,6 +11,10 @@ stepping stone for that to become a reality.
 
 Anyhow if you would like to learn about tkinter feel free to check my code out, you might learn something new.
 
+Other resources to further learn about tkinter :
+https://pythonprogramming.net/search/?q=tkinter
+
+
 Yours truly,
 ~Jonathan Almawi
     A.K.A CyborgVillager
