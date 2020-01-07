@@ -18,7 +18,7 @@ v0:  Introduction & Setting Up
         Introduction to python tkinter & its gui functionality , setting up the verion_info.txt,readme.txt, and pyvenv
             files
 
---v1: Source Folder Import & tkint_version0.py
+v1: Source Folder Import & tkint_version0.py
 
         Made a 'source' folder to host any imports needed for the program to operate, without spamming the py file
         that the user would like to open.
@@ -29,8 +29,10 @@ v0:  Introduction & Setting Up
         Lastly created a file window_tkinter0.py that will make a window to pop up
 
 
--wor:v2:
-v3:
+--v2 Quit Button Placement: created a .py file named button_tkinter1.py in which contains a quit button as well
+                                its relative location to the windows max size, and included a custom title for the
+                                opened window as well
+-wor:v3:
 v4:
 v5:
 v6:
