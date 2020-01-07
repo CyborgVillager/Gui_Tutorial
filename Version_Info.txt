@@ -14,11 +14,22 @@
                | --------------------------- |
 
 
---v0:  Introduction & Setting Up
+v0:  Introduction & Setting Up
         Introduction to python tkinter & its gui functionality , setting up the verion_info.txt,readme.txt, and pyvenv
             files
--wor:v1:
-v2:
+
+--v1: Source Folder Import & tkint_version0.py
+
+        Made a 'source' folder to host any imports needed for the program to operate, without spamming the py file
+        that the user would like to open.
+
+        After that made a folder called tkint_version0 to hold the introductory information regarding on using tkinter
+        tkint_version1 and so on will have a bit more depth to tkinter, will modify this if need be.
+
+        Lastly created a file window_tkinter0.py that will make a window to pop up
+
+
+-wor:v2:
 v3:
 v4:
 v5:
