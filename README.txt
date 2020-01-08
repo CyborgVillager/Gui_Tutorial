@@ -15,6 +15,16 @@ Other resources to further learn about tkinter :
 https://pythonprogramming.net/search/?q=tkinter
 
 
+============
+Other Info
+===========
+Once I'm done with the intro on tkint will go back to kivy/ learn a bit more about PyQt
+Once those 2 objectives are completed Ill have to decide what Ill be using
+for the project either kivy or PyQt. All of this info will be updated onto this respo, until I go into
+verison1 of it.
+
+
+
 Yours truly,
 ~Jonathan Almawi
     A.K.A CyborgVillager
