@@ -53,14 +53,19 @@ v4.5 Updated menu_tkinter3.py:  comments go a in-depth
                                     regarding the .py information  functionality of the functions/info
                                     Edit: Disabled def client_exit(self): @ line 49-50 for the time being
 
---v5 Menu allows image/text to be shown:
+v5 Menu allows image/text to be shown:
         img_text_tkinter1.py Menu allows images & text to be shown, still need some more work in regarding the main
         functionality of it Besides that the program works as intented.
         Installed pillow on the interpt & made a source file for it, called pillow_lib_tk.py
         this is needed for the menu to work correctly
         Edit: will check the link http://effbot.org/tkinterbook/text.htm#patterns for more info in regarding
         to text widgets
--wor:v6:
+--:v6 Intro of Kivy/PyQt : As of now Ill focus on kivy , which I've started to learn 1st for the calculator @
+            https://github.com/CyborgVillager/UpdatedCacl, & try out pyQt. will dive into the intro information to get
+            a good grounding of the situation. Once those 2 objectives are completed Ill have to decide what Ill be using
+            for the project either kivy or PyQt. All of this info will be updated onto this respo, until I go into
+            verison1 of it.
+
 v7:
 v8:
 v9:
