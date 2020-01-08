@@ -49,11 +49,16 @@ v4 Basic Menu & Quit Personality:
          Also heres the stack overflow in regarding to using this for .Py 3
          https://stackoverflow.com/questions/38181710/tkmessagebox-no-module/38181986
 
---v4.5 Updated menu_tkinter3.py:  comments go a in-depth
+v4.5 Updated menu_tkinter3.py:  comments go a in-depth
                                     regarding the .py information  functionality of the functions/info
                                     Edit: Disabled def client_exit(self): @ line 49-50 for the time being
--wor:v5:
-v6:
+
+--v5 Menu allows image/text to be shown:
+        img_text_tkinter1.py Menu allows images & text to be shown, still need some more work in regarding the main
+        functionality of it Besides that the program works as intented.
+        Installed pillow on the interpt & made a source file for it, called pillow_lib_tk.py
+        this is needed for the menu to work correctly
+-wor:v6:
 v7:
 v8:
 v9:
