@@ -37,7 +37,7 @@ v3 Quit Button Functionality: Activated: created a file named quit_button_functi
                                             This example will allow the user to click on the button 'Quit' to close
                                             the program, instead of pressing the X on the top right of the window, they
                                             can click the button 'Quit' as a replacement
-
+----------------------------    ----------------------------   ------------------------- ------------------------------
 v4 Basic Menu & Quit Personality:
         Made a basic menu @ menu_tkinter3.py. Will work further on this to give it more functionality on tkint_version1
         For now getting the basics in and learning the support structure on making such programs
@@ -60,14 +60,20 @@ v5 Menu allows image/text to be shown:
         this is needed for the menu to work correctly
         Edit: will check the link http://effbot.org/tkinterbook/text.htm#patterns for more info in regarding
         to text widgets
---:v6 Intro of Kivy/PyQt : As of now Ill focus on kivy , which I've started to learn 1st for the calculator @
+v6 Intro of Kivy/PyQt : As of now Ill focus on kivy , which I've started to learn 1st for the calculator @
             https://github.com/CyborgVillager/UpdatedCacl, & try out pyQt. will dive into the intro information to get
             a good grounding of the situation. Once those 2 objectives are completed Ill have to decide what Ill be using
             for the project either kivy or PyQt. All of this info will be updated onto this respo, until I go into
             verison1 of it.
-
-v7:
-v8:
+----------------------------    ----------------------------   ------------------------- ------------------------------
+--v7 Re-configured the layout: of the folders to include PyQt/organized the code a bit. Besides that made 2 new folders
+        One for the source code for PyQt, while the other to host PyQt programs, to make it sepearte from
+            tkint_tutorial_files, which contain the previous versions of tkint programs.
+            For PyQt source code just imported -> from PyQt5 import QtGui  &
+                                                     from PyQt5.QtWidgets import QApplication, QMainWindow
+            to save space on the main programs, besides that made a new .py file called
+                                                     window_pyqt0 which makes a new window
+-wor:v8:
 v9:
 v10:
 v11:

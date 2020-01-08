@@ -1,0 +1,2 @@
+https://www.flaticon.com/free-icon/browser_1120910?term=computer&page=1&position=4 -> used @ pyqt_source.py
+    for an icon @ line 15
