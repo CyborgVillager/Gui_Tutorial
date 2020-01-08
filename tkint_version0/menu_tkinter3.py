@@ -25,15 +25,18 @@ class Window(Frame):
         examp = Menu(menu)
 
         # This will show what subjects will be on the 'File' Category once
-        # a user has clicked 'File'
+        # a user has clicked 'File' they will see the exit button
 
-        file.add_command(label='Open', command=self.client_open)
-        examp.add_command(label='Exit',command=self.client_exit)
+        file.add_command(label='Exit', command=self.client_exit)
 
-        # exit is now part of the menu
+        # Once a user has clicked 'Examp' they will see the open button, for now it will just close the
+        # program
+        examp.add_command(label='Open',command=self.client_exit)
+
+        # creates the instance of 'File' which will hold the exit information
         menu.add_cascade(label='File', menu=file)
 
-
+        # creates the instance of 'examp' which will close the program for the time being
         menu.add_cascade(label='Examp', menu=examp)
 
         # creating the file obj

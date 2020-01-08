@@ -14,11 +14,11 @@
                | --------------------------- |
 
 
-v0:  Introduction & Setting Up
+v0  Introduction & Setting Up:
         Introduction to python tkinter & its gui functionality , setting up the verion_info.txt,readme.txt, and pyvenv
             files
 
-v1: Source Folder Import & tkint_version0.py
+v1 Source Folder Import & tkint_version0.py:
 
         Made a 'source' folder to host any imports needed for the program to operate, without spamming the py file
         that the user would like to open.
@@ -33,12 +33,12 @@ v2 Quit Button Placement: created a .py file named button_tkinter1.py in which c
                                 its relative location to the windows max size, and included a custom title for the
                                 opened window as well
 
-v3 Quit Button Functionality Activated: created a file named quit_button_functionality_tkinter2.py
+v3 Quit Button Functionality: Activated: created a file named quit_button_functionality_tkinter2.py
                                             This example will allow the user to click on the button 'Quit' to close
                                             the program, instead of pressing the X on the top right of the window, they
                                             can click the button 'Quit' as a replacement
 
---v4 Basic Menu & Quit Personality:
+v4 Basic Menu & Quit Personality:
         Made a basic menu @ menu_tkinter3.py. Will work further on this to give it more functionality on tkint_version1
         For now getting the basics in and learning the support structure on making such programs
         Besides that testing some other ways on giving the program some more options, and found a
@@ -48,6 +48,9 @@ v3 Quit Button Functionality Activated: created a file named quit_button_functio
          Could be good to give an A.i for the program some personality/piszas
          Also heres the stack overflow in regarding to using this for .Py 3
          https://stackoverflow.com/questions/38181710/tkmessagebox-no-module/38181986
+
+--v4.5 Updated menu_tkinter3.py:  comments go a in-depth
+                                    regarding the .py information  functionality of the functions/info
 -wor:v5:
 v6:
 v7:
