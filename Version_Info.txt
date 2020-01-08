@@ -58,6 +58,8 @@ v4.5 Updated menu_tkinter3.py:  comments go a in-depth
         functionality of it Besides that the program works as intented.
         Installed pillow on the interpt & made a source file for it, called pillow_lib_tk.py
         this is needed for the menu to work correctly
+        Edit: will check the link http://effbot.org/tkinterbook/text.htm#patterns for more info in regarding
+        to text widgets
 -wor:v6:
 v7:
 v8:
