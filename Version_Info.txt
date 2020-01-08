@@ -66,15 +66,21 @@ v6 Intro of Kivy/PyQt : As of now Ill focus on kivy , which I've started to lear
             for the project either kivy or PyQt. All of this info will be updated onto this respo, until I go into
             verison1 of it.
 ----------------------------    ----------------------------   ------------------------- ------------------------------
---v7 Re-configured the layout: of the folders to include PyQt/organized the code a bit. Besides that made 2 new folders
+v7 Re-configured the layout: of the folders to include PyQt/organized the code a bit. Besides that made 2 new folders
         One for the source code for PyQt, while the other to host PyQt programs, to make it sepearte from
             tkint_tutorial_files, which contain the previous versions of tkint programs.
             For PyQt source code just imported -> from PyQt5 import QtGui  &
                                                      from PyQt5.QtWidgets import QApplication, QMainWindow
             to save space on the main programs, besides that made a new .py file called
                                                      window_pyqt0 which makes a new window
--wor:v8:
-v9:
+
+--v8 Close the program: Made a .py file called button_pyqt1 which will create a window, and afterwords will close
+                        the program if a user has clicked 'Close Application', this also includes a pop up if a user has
+                        hovered over it.
+                        Button Key Legend @ line 21-23
+                        button location left -> + = right , - = left, top -> + = bottom, - = top, width -> + = size increase, less
+                         size decrease, same for height
+-wor:v9:
 v10:
 v11:
 v12:
