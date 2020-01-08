@@ -1,15 +1,12 @@
 from tkinter_source_file import *
 
+
 class Window(Frame):
 
     def __init__(self, master=None):
-
-        Frame.__init__(self,master)
-
+        Frame.__init__(self, master)
         self.master = master
-
         self.init_window()
-
 
     def init_window(self):
         self.master.title('Gui Menu')
@@ -31,7 +28,7 @@ class Window(Frame):
 
         # Once a user has clicked 'Examp' they will see the open button, for now it will just close the
         # program
-        examp.add_command(label='Open',command=self.client_exit)
+        examp.add_command(label='Open', command=self.client_exit)
 
         # creates the instance of 'File' which will hold the exit information
         menu.add_cascade(label='File', menu=file)
@@ -45,10 +42,13 @@ class Window(Frame):
         # on top of the window
         edit.add_command(label='Undo')
         menu.add_cascade(label='Edit', menu=edit)
-        menu.add_cascade(label='Now',menu=examp)
+        menu.add_cascade(label='Now', menu=examp)
 
-    def client_exit(self):
-        exit()
+
+#### Disabled  4 The Time Being ####
+#    def client_exit(self):
+#        exit()
+#### Disabled 4 The Time Being ####
 
 root = Tk()
 root.geometry('500x400')
