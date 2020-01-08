@@ -11,6 +11,7 @@ links:
 https://build-system.fman.io/pyqt5-tutorial
 https://codeloop.org/pyqt5-creating-first-window/
 https://doc.qt.io/qt-5/qpushbutton.html
+https://doc.qt.io/qt-5/qt5-intro.html
 
 Once I'm done with the basic introduction and a couple of mini-projects Ill re-evaluate and work from there.
 Anyhow have a great day, and feel free to look around the code a bit, you might learn something new.

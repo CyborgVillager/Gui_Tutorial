@@ -74,14 +74,21 @@ v7 Re-configured the layout: of the folders to include PyQt/organized the code a
             to save space on the main programs, besides that made a new .py file called
                                                      window_pyqt0 which makes a new window
 
---v8 Close the program: Made a .py file called button_pyqt1 which will create a window, and afterwords will close
+v8 Close the program: Made a .py file called button_pyqt1 which will create a window, and afterwords will close
                         the program if a user has clicked 'Close Application', this also includes a pop up if a user has
                         hovered over it.
                         Button Key Legend @ line 21-23
                         button location left -> + = right , - = left, top -> + = bottom, - = top, width -> + = size increase, less
                          size decrease, same for height
--wor:v9:
-v10:
+
+--v9 Signal Communications: basic info, the button from def createbutton will create a 'signal' to the program to close
+                            the program by connecting to the function buttonaction which closes
+                            the program due to having sys.exit()
+
+                            The program file name is signal_comms_pyqt2.py which will hold v9 information on closing
+                            the program. Its quite similiar to v8 Close the program
+----------------------------    ----------------------------   ------------------------- ------------------------------
+-wor:v10:
 v11:
 v12:
 v13:
