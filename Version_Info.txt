@@ -81,15 +81,17 @@ v8 Close the program: Made a .py file called button_pyqt1 which will create a wi
                         button location left -> + = right , - = left, top -> + = bottom, - = top, width -> + = size increase, less
                          size decrease, same for height
 
---v9 Signal Communications: basic info, the button from def createbutton will create a 'signal' to the program to close
+v9 Signal Communications: basic info, the button from def createbutton will create a 'signal' to the program to close
                             the program by connecting to the function buttonaction which closes
                             the program due to having sys.exit()
 
                             The program file name is signal_comms_pyqt2.py which will hold v9 information on closing
                             the program. Its quite similiar to v8 Close the program
 ----------------------------    ----------------------------   ------------------------- ------------------------------
--wor:v10:
-v11:
+--v10 Layout HBox Gui: introduction to gui layout for buttons @ layout_pyqt3.py, the program asks for the user's fav
+                        programming language with the included close app button as well. The buttons are non-functional
+                            at the moment.
+-wor:v11:
 v12:
 v13:
 v14:

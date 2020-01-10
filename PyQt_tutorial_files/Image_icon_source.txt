@@ -3,4 +3,20 @@ https://www.flaticon.com/free-icon/browser_1120910?term=computer&page=1&position
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/roundicons" title="Roundicons">Roundicons
 </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -> used @ button_pyqt1.py
-@ line 22 -> image name : close_button.pny
+@ line 22 -> image name : close_button.png
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from
+ <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+used @ layout_pyqt3.py
+@ line 31 -> image name : python.png
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from
+<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+used @ layout_pyqt3.py
+@ line 36 -> image name : c_plus.png
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from
+<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+used @ layout_pyqt3.py
+@ line 41 -> image name : html.png
