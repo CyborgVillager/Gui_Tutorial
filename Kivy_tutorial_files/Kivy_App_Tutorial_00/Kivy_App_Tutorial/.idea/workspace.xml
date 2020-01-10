@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="394220eb-7c29-4314-bdeb-9793b528c865" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kivy_App_Tutorial" />
+  </component>
+  <component name="ProjectId" id="1RjM4EG32XkpAhsIbb4iRX1oH4U" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Calculator/CalculatorProj/images" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Calculator\CalculatorProj" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Calculator\CalculatorProj\sounds" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\CheckBox" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Fonts&amp;Text&amp;Input" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Progress_Bar" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Calculator\CalculatorProj\images" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Calculator\images" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Calculator" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Calculator\sounds" />
+      <recent name="D:\PyProject\Intro2Python00\Govst\Kivy_App_Tutorial_00\Desabled_Tool,Carousel,Clock\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.random_game">
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kivy_App_Tutorial_00" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculator/CalculatorProj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator/CalculatorProj/Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Label_with_button" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kivy_App_Tutorial_00" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Label" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Label/Label_with_button.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kivy_App_Tutorial_00" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/counter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/counter/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_game_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kivy_App_Tutorial_00" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Downloads/AI-game---project-master/AI-game---project-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Downloads/AI-game---project-master/AI-game---project-master/main_game_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kivy_App_Tutorial_00" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Downloads/AI-game---project-master/AI-game---project-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Downloads/AI-game---project-master/AI-game---project-master/random_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.random_game" />
+        <item itemvalue="Python.main_game_class" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Calculator" />
+        <item itemvalue="Python.Label_with_button" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="394220eb-7c29-4314-bdeb-9793b528c865" name="Default Changelist" comment="" />
+      <created>1570175858551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570175858551</updated>
+      <workItem from="1570175860638" duration="53001000" />
+      <workItem from="1570343010464" duration="14666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Super_Button_06_part3.coverage" NAME="Super_Button_06_part3 Coverage Results" MODIFIED="1570223120330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Canvas.coverage" NAME="Canvas Coverage Results" MODIFIED="1570288651761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Canvas" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$main_game_class.coverage" NAME="main_game_class Coverage Results" MODIFIED="1570359453427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Downloads/AI-game---project-master/AI-game---project-master" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$ButtonWidget_06_part2.coverage" NAME="ButtonWidget_06_part2 Coverage Results" MODIFIED="1570221914388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Spinner.coverage" NAME="Spinner Coverage Results" MODIFIED="1570292051937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Accordion&amp;Spinner" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$textiput_2.coverage" NAME="textiput_2 Coverage Results" MODIFIED="1570302049201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fonts&amp;Text&amp;Input/TextInput" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$ButtonWidget_06.coverage" NAME="ButtonWidget_06 Coverage Results" MODIFIED="1570351713402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Box&amp;Buttons" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Label_with_button.coverage" NAME="Label_with_button Coverage Results" MODIFIED="1570355828046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Label" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Progress_Bar_01.coverage" NAME="Progress-Bar_01 Coverage Results" MODIFIED="1570293295775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Progress_Bar/Progress_Bar_Example_Revision" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Animation.coverage" NAME="Animation Coverage Results" MODIFIED="1570342213811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$actionbar_01.coverage" NAME="actionbar_01 Coverage Results" MODIFIED="1570286501353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ActionBar" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$CheckBox_2.coverage" NAME="CheckBox_2 Coverage Results" MODIFIED="1570287132632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CheckBox" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$pos_Hint_Window_04.coverage" NAME="pos_Hint_Window_04 Coverage Results" MODIFIED="1570182575704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Stack_Layout_05.coverage" NAME="Stack_Layout_05 Coverage Results" MODIFIED="1570187826473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$checkbox_project_example.coverage" NAME="checkbox_project_example Coverage Results" MODIFIED="1570292692076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CheckBox_Projet" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$pyexample.coverage" NAME="pyexample Coverage Results" MODIFIED="1570176138805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Carousel_Async_Image.coverage" NAME="Carousel_Async_Image Coverage Results" MODIFIED="1570355582160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desabled_Tool,Carousel,Clock" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$longtext.coverage" NAME="longtext Coverage Results" MODIFIED="1570299083081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fonts&amp;Text&amp;Input/Longtext" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$tabbedpanel.coverage" NAME="tabbedpanel Coverage Results" MODIFIED="1570340028245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$create_Label_07.coverage" NAME="create_Label_07 Coverage Results" MODIFIED="1570251894577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Label" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$popup.coverage" NAME="popup Coverage Results" MODIFIED="1570328198331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$textinput.coverage" NAME="textinput Coverage Results" MODIFIED="1570299266913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fonts&amp;Text&amp;Input/TextInput" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$FloatLayout_05.coverage" NAME="FloatLayout_05 Coverage Results" MODIFIED="1570184883122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Super_05.coverage" NAME="Super_05 Coverage Results" MODIFIED="1570183103760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$randomwsound.coverage" NAME="randomwsound Coverage Results" MODIFIED="1570355588905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$CheckBox.coverage" NAME="CheckBox Coverage Results" MODIFIED="1570286743130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CheckBox" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$modyifi_Your_Window_Size_Box_Layout_03.coverage" NAME="modyifi_Your_Window_Size_Box_Layout_03 Coverage Results" MODIFIED="1570180597831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$modyifi_Your_Window_Size_03.coverage" NAME="modyifi_Your_Window_Size_03 Coverage Results" MODIFIED="1570180161862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Imagecarou.coverage" NAME="Imagecarou Coverage Results" MODIFIED="1570306527046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desabled_Tool,Carousel,Clock" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$changeFont.coverage" NAME="changeFont Coverage Results" MODIFIED="1570295176241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CHangeFont" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$AsynchImage.coverage" NAME="AsynchImage Coverage Results" MODIFIED="1570290267945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scatter&amp;AsyncImage" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$RotateUrClock.coverage" NAME="RotateUrClock Coverage Results" MODIFIED="1570307460182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desabled_Tool,Carousel,Clock" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Project_1.coverage" NAME="Project_1 Coverage Results" MODIFIED="1570308259540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Example_Projects" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$dropdown_kivy.coverage" NAME="dropdown_kivy Coverage Results" MODIFIED="1570340687193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$main.coverage" NAME="main Coverage Results" MODIFIED="1570359176496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/counter" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Accordion.coverage" NAME="Accordion Coverage Results" MODIFIED="1570291594806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Accordion" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$clock.coverage" NAME="clock Coverage Results" MODIFIED="1570306971790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desabled_Tool,Carousel,Clock" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Scatter.coverage" NAME="Scatter Coverage Results" MODIFIED="1570288108050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scatter" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$RelativeLayout.coverage" NAME="RelativeLayout Coverage Results" MODIFIED="1570187356881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$actionbar_00.coverage" NAME="actionbar_00 Coverage Results" MODIFIED="1570285720734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ActionBar" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$PageLayout_05.coverage" NAME="PageLayout_05 Coverage Results" MODIFIED="1570221257022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Progress_Bar.coverage" NAME="Progress_Bar Coverage Results" MODIFIED="1570287380608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Progress_Bar" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$text_on_window.coverage" NAME="text_on_window Coverage Results" MODIFIED="1570294769092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TextOnWindow" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$AncorLayout_05.coverage" NAME="AncorLayout_05 Coverage Results" MODIFIED="1570185942504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$ScrollView.coverage" NAME="ScrollView Coverage Results" MODIFIED="1570328539520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Txt_with_image.coverage" NAME="Txt_with_image Coverage Results" MODIFIED="1570341704169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$runTouchApp.coverage" NAME="runTouchApp Coverage Results" MODIFIED="1570177617561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Carousel.coverage" NAME="Carousel Coverage Results" MODIFIED="1570306146404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desabled_Tool,Carousel,Clock" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$button.coverage" NAME="button Coverage Results" MODIFIED="1570344279672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator/Reading_Kv_file" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Desabled.coverage" NAME="Desabled Coverage Results" MODIFIED="1570302496987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Desabled_Tool,Carousel,Clock" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1570358668420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Calculator/CalculatorProj" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$random_game.coverage" NAME="random_game Coverage Results" MODIFIED="1570359604579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Downloads/AI-game---project-master/AI-game---project-master" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Project_3.coverage" NAME="Project_3 Coverage Results" MODIFIED="1570309939045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Example_Projects" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$gridLayout_05.coverage" NAME="gridLayout_05 Coverage Results" MODIFIED="1570186863075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$BoxLayout_05.coverage" NAME="BoxLayout_05 Coverage Results" MODIFIED="1570183714980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$boxlayout_03.coverage" NAME="boxlayout_03 Coverage Results" MODIFIED="1570178142605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kivy_App_Tutorial_00$Project_2.coverage" NAME="Project_2 Coverage Results" MODIFIED="1570308939084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Example_Projects" />
+  </component>
+</project>

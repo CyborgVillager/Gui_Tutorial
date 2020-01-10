@@ -116,7 +116,7 @@ v15 Update File Names -> For Readability: Updated the file names for better orga
                                             2-> third, and so on, and also created a new
                                                 .py called checkbox_with_signals_pyqt, will update on the next version
 ----------------------------    ----------------------------   ------------------------- ------------------------------
---v16 Checkbox w/signals: User will have to select a checbox to get a response, similiar to other checkbox examples
+v16 Checkbox w/signals: User will have to select a checbox to get a response, similiar to other checkbox examples
                         in html.
 
                         After working on a couple of examples, Ill go back to kivy, due to better gui. Good
@@ -134,8 +134,10 @@ v15 Update File Names -> For Readability: Updated the file names for better orga
 
                         Edit: Updated the project name to Gui_Tutorial -> Updated the respo @ github to Gui_Tutorial
 
-v17:
-v18:
+--v17 Added Kivy Info : Added fall semester 2019 code for kivy as a reference, besides that made 2 new folders to hold
+                       a pong game and some basic info regarding kivy. All of this is hosted onto a file
+                       called Kivy_tutorial_files
+-wor:v18:
 v19:
 v20:
 v21:
