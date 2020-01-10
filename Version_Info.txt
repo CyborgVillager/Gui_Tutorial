@@ -110,11 +110,28 @@ v13 Pixmap Tutorial: new program that allows the user to see an image/background
 v14 Radio Buttons: on py program radio_buttons_pyqt7 the user will have to choose either of 3 options
                     once they have selected an option a result will appear repating a text of what they
                         have selected
---v15 Update File Names-> For Readability: Updated the file names for better organization / readability, by
+
+v15 Update File Names -> For Readability: Updated the file names for better organization / readability, by
                                         ordering them 0 -> which is first, 1-> second,
                                             2-> third, and so on, and also created a new
                                                 .py called checkbox_with_signals_pyqt, will update on the next version
--wor:v16:
+----------------------------    ----------------------------   ------------------------- ------------------------------
+--v16 Checkbox w/signals: User will have to select a checbox to get a response, similiar to other checkbox examples
+                        in html.
+
+                        After working on a couple of examples, Ill go back to kivy, due to better gui. Good
+                        for using on other devices/design is easy on the eyes, etc. Will use Kivy to make the application
+                        If your interested in learning more about PyQt feel free to check out the link:
+                        https://codeloop.org/category/pyqt5/
+                        for more info.
+
+                        Had to do a bit of digging on this subject, been contemplating/resh of which I should
+                        primarly focus on, after a couple of reads, backend experience, and videos on this subject
+                        Kivy tops it off.
+
+                        Will update this respo to include a couple of Kivy examples/tutorials. After that will make
+                        a new respo dedicated to the kivy project.
+
 v17:
 v18:
 v19:

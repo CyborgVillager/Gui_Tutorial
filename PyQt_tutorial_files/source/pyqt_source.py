@@ -9,4 +9,7 @@ from PyQt5.QtGui import QPixmap
 # for radio buttons
 from PyQt5.QtWidgets import QRadioButton
 
+# for checking info/checkboxes
+from PyQt5.QtWidgets import QCheckBox
+
 import sys
