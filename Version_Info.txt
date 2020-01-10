@@ -88,11 +88,14 @@ v9 Signal Communications: basic info, the button from def createbutton will crea
                             The program file name is signal_comms_pyqt2.py which will hold v9 information on closing
                             the program. Its quite similiar to v8 Close the program
 ----------------------------    ----------------------------   ------------------------- ------------------------------
---v10 Layout HBox Gui: introduction to gui layout for buttons @ layout_pyqt3.py, the program asks for the user's fav
+v10 Layout HBox Gui: introduction to gui layout for buttons @ layout_pyqt3.py, the program asks for the user's fav
                         programming language with the included close app button as well. The buttons are non-functional
                             at the moment.
--wor:v11:
-v12:
+
+--v11 Gui Grid Layout:  grid_layout_pyqt3.py -> the program will make a continaer that will let the buttons/
+                    widgets show in a grid like pattern, similiar to layout_pyqt3
+                new tutorial pyqt colors tutorial : https://pythonspot.com/pyqt5-colors/
+-wor:v12:
 v13:
 v14:
 v15:
