@@ -107,11 +107,14 @@ v13 Pixmap Tutorial: new program that allows the user to see an image/background
                    also updated pyqt_source.py to allow images to be processed with pixmap
                    -> from PyQt5.QtGui import QPixmap
 
---v14 Radio Buttons: on py program radio_buttons_pyqt7 the user will have to choose either of 3 options
+v14 Radio Buttons: on py program radio_buttons_pyqt7 the user will have to choose either of 3 options
                     once they have selected an option a result will appear repating a text of what they
                         have selected
--wor:v15:
-v16:
+--v15 Update File Names-> For Readability: Updated the file names for better organization / readability, by
+                                        ordering them 0 -> which is first, 1-> second,
+                                            2-> third, and so on, and also created a new
+                                                .py called checkbox_with_signals_pyqt, will update on the next version
+-wor:v16:
 v17:
 v18:
 v19:
