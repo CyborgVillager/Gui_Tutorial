@@ -132,6 +132,8 @@ v15 Update File Names -> For Readability: Updated the file names for better orga
                         Will update this respo to include a couple of Kivy examples/tutorials. After that will make
                         a new respo dedicated to the kivy project.
 
+                        Edit: Updated the project name to Gui_Tutorial
+
 v17:
 v18:
 v19:

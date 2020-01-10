@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Tkinter_tut.iml" filepath="$PROJECT_DIR$/.idea/Tkinter_tut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gui_Tutorial.iml" filepath="$PROJECT_DIR$/.idea/Gui_Tutorial.iml" />
     </modules>
   </component>
 </project>
