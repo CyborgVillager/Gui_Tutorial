@@ -6,4 +6,7 @@ from PyQt5.QtWidgets import QGroupBox, QVBoxLayout, QDialog, QHBoxLayout,QGridLa
 # for images
 from PyQt5.QtGui import QPixmap
 
+# for radio buttons
+from PyQt5.QtWidgets import QRadioButton
+
 import sys

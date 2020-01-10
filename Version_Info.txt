@@ -99,7 +99,7 @@ v11 Gui Grid Layout:  grid_layout_pyqt3.py -> the program will make a continaer 
 v12 Gui Label Text: the program gird_label_text_pyqt5.py will show the user a hello text & basic info of the
                         program / e.g the user's dashboard
 
---v13 Pixmap Tutorial: new program that allows the user to see an image/background can be seen @ add_image_pyqt7.py
+v13 Pixmap Tutorial: new program that allows the user to see an image/background can be seen @ add_image_pyqt7.py
                         To scale an image use the stackoverflow link for more in-depth answer.
                         Implemented the responder's answer to re-size the overly large image to fit onto a smaller
                         screen, if a user has a small screen
@@ -107,8 +107,10 @@ v12 Gui Label Text: the program gird_label_text_pyqt5.py will show the user a he
                    also updated pyqt_source.py to allow images to be processed with pixmap
                    -> from PyQt5.QtGui import QPixmap
 
--wor:v14:
-v15:
+--v14 Radio Buttons: on py program radio_buttons_pyqt7 the user will have to choose either of 3 options
+                    once they have selected an option a result will appear repating a text of what they
+                        have selected
+-wor:v15:
 v16:
 v17:
 v18:
