@@ -92,11 +92,14 @@ v10 Layout HBox Gui: introduction to gui layout for buttons @ layout_pyqt3.py, t
                         programming language with the included close app button as well. The buttons are non-functional
                             at the moment.
 
---v11 Gui Grid Layout:  grid_layout_pyqt3.py -> the program will make a continaer that will let the buttons/
+v11 Gui Grid Layout:  grid_layout_pyqt3.py -> the program will make a continaer that will let the buttons/
                     widgets show in a grid like pattern, similiar to layout_pyqt3
                 new tutorial pyqt colors tutorial : https://pythonspot.com/pyqt5-colors/
--wor:v12:
-v13:
+
+--v12 Gui Label Text: the program gird_label_text_pyqt5.py will show the user a hello text & basic info of the
+                        program / e.g the user's dashboard
+
+-wor:v13:
 v14:
 v15:
 v16:
