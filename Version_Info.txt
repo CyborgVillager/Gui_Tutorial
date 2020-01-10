@@ -96,11 +96,18 @@ v11 Gui Grid Layout:  grid_layout_pyqt3.py -> the program will make a continaer 
                     widgets show in a grid like pattern, similiar to layout_pyqt3
                 new tutorial pyqt colors tutorial : https://pythonspot.com/pyqt5-colors/
 
---v12 Gui Label Text: the program gird_label_text_pyqt5.py will show the user a hello text & basic info of the
+v12 Gui Label Text: the program gird_label_text_pyqt5.py will show the user a hello text & basic info of the
                         program / e.g the user's dashboard
 
--wor:v13:
-v14:
+--v13 Pixmap Tutorial: new program that allows the user to see an image/background can be seen @ add_image_pyqt7.py
+                        To scale an image use the stackoverflow link for more in-depth answer.
+                        Implemented the responder's answer to re-size the overly large image to fit onto a smaller
+                        screen, if a user has a small screen
+                   https://stackoverflow.com/questions/21802868/python-how-to-resize-raster-image-with-pyqt
+                   also updated pyqt_source.py to allow images to be processed with pixmap
+                   -> from PyQt5.QtGui import QPixmap
+
+-wor:v14:
 v15:
 v16:
 v17:
