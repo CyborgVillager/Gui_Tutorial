@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/PyQt/source" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PyQt_tutorial_files/source" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Kivy_tutorial_files/source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kivy_tutorial_files/pong_game/source" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/tkinter_tutorial_pyvenv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Tkinter_tut)" jdkType="Python SDK" />

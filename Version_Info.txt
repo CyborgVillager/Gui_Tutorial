@@ -145,11 +145,13 @@ v17 Added Kivy Info : Added fall semester 2019 code for kivy as a reference, bes
                        other info relating to this ->
                        https://stackoverflow.com/questions/40697876/unable-to-get-a-window-abort
 
---v18 Basic Pong Info: 2 new files -> On folder pong_games will contain 2 files -> 0pong_tut.py contains the program to
+v18 Basic Pong Info: 2 new files -> On folder pong_games will contain 2 files -> 0pong_tut.py contains the program to
                         run the pong game, while the other file pong.kv will hold the graphics that the
                          user will see on their screen
--wor:v19:
-v20:
+--v19 Pong Game: full version of Pong game tutorial complete feel free to check out the link to see more ->
+        https://kivy.org/doc/stable/tutorials/pong.html, will now work on refreshing the basics from kivy_app_tutorial_00
+        after that will work on the project
+-wor:v20:
 v21:
 v22:
 v23:
