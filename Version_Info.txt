@@ -134,7 +134,7 @@ v16 Checkbox w/signals: User will have to select a checbox to get a response, si
 
                         Edit: Updated the project name to Gui_Tutorial -> Updated the respo @ github to Gui_Tutorial
 
---v17 Added Kivy Info : Added fall semester 2019 code for kivy as a reference, besides that made 2 new folders to hold
+v17 Added Kivy Info : Added fall semester 2019 code for kivy as a reference, besides that made 2 new folders to hold
                        a pong game and some basic info regarding kivy. All of this is hosted onto a file
                        called Kivy_tutorial_files
 
@@ -145,8 +145,10 @@ v16 Checkbox w/signals: User will have to select a checbox to get a response, si
                        other info relating to this ->
                        https://stackoverflow.com/questions/40697876/unable-to-get-a-window-abort
 
--wor:v18:
-v19:
+--v18 Basic Pong Info: 2 new files -> On folder pong_games will contain 2 files -> 0pong_tut.py contains the program to
+                        run the pong game, while the other file pong.kv will hold the graphics that the
+                         user will see on their screen
+-wor:v19:
 v20:
 v21:
 v22:
