@@ -148,16 +148,60 @@ v17 Added Kivy Info : Added fall semester 2019 code for kivy as a reference, bes
 v18 Basic Pong Info: 2 new files -> On folder pong_games will contain 2 files -> 0pong_tut.py contains the program to
                         run the pong game, while the other file pong.kv will hold the graphics that the
                          user will see on their screen
---v19 Pong Game: full version of Pong game tutorial complete feel free to check out the link to see more ->
+v19 Pong Game: full version of Pong game tutorial complete feel free to check out the link to see more ->
         https://kivy.org/doc/stable/tutorials/pong.html, will now work on refreshing the basics from kivy_app_tutorial_00
         after that will work on the project
--wor:v20:
-v21:
-v22:
-v23:
-v24:
-v25:
-v26:
-v27:
-v28:
-v29:
+--v20 Forked Kivy: forked kivy onto this project, will be using the forked, and the fall semester as a
+                    reference when working on the project, Will create a new respo called Kivy_Project0.
+                    This will be a test run on re-learning the ropes
+
+        of kivy. After a day of testing on the 12th of 1/20 will be working on the project. Once that is completed
+        will re-work on django and make a temp site to host the program. So instead of having a ide to launch the
+        program you just have to run the application by clicking on it. will have to learn on how to compile the
+        code into an .exe.
+
+        Besides that this respo has been fun and exciting, have so many plans & ideas on using this to its full potential
+        and will continue to test out kivy to its limit once I implement a couple of A.i prototypes into the mix.
+        2020 will be an interesting year for me, and potentially for you as well. A lot of changes will happen that will
+        not only benefit me, but also benefit other people as well.
+
+        As long you keep on moving forward with an idea/plan you will be alright. Just remeber that there will be a couple
+        of bumps along the way, and remember thats part of life. Use those bumps to your advantage by learning from
+        them, and see it for it's true colors. Keep your mind open, but also take into consideration the logical aspects
+        of it as well. Remember that we as a species are both logical & emotional in nature. Thanks to those 2 aspects
+        our species has come from the stone age filled with dangers and perils that today many would not dare
+        would want to face.
+
+        Thanks to those sacrfices on learning about our world and its many wonders & dangers we
+        as a species has made the wild world called Earth our home. We have terraform it to suit our needs for survial
+        and for pleasure/entertainment. Theres so much out there begging to be discovered in either history,science,
+        and the great unknown it fills me with excitment knowing that working on this, and by furthing increasing my
+        knowledge in programming. I am able to create ideas into reality, give them form and shape. As same for our
+        ancestors when they brought there idea's of the wheel, farming, metal forging, arts & craft, and even religion
+        into a reality! We are both creators & destroyers the caretakers & plunders of this great world called Earth.
+
+        I am confident that our species, will continue to advance and make other worlds our home as well. With the advent
+        of A.i and their ever increasing intelligence we can also have them by our sides giving this universe a breath of
+        new life. As of now humans are the tree while A.i is its fruit. Soon the fruit will drop from the tree and sprout
+        a into a new tree of unlimited potential. Hopefully our generation will get to see the A.i fruit come into
+        a blossom. If not then im glad that I and our generation has helped in the assistance in putting in the fertilizer
+        for the A.I seed. This is also in thanks to our previous generation for putting the seed into existence, and
+        neccassary nutrion and structure into a reality as well.
+
+        To the arts & crafts for creating many, many outtakes of A.i, future
+        technology, future history, and for the both postive & negative aspects of it. To science & history on the
+        effort into making the technology/ideas into a reality that will improve the lives of many, many lives for our planet.
+        Despite the setbacks of harm that has come to our species and to the numerous times of potential exiction events
+        our species, have & will continue to do the un-expected, continue to thrive under both harsh and lucrative
+        conditions. No matter the take of the environment or era, we have continued to go above and beyond for any
+        species to have ever existed on our world, and possibility the universe as well.
+
+        Theres so much to learn and do, its unbearable. Use your time wisely and remember to do your out-most best,
+        your playing iron man mode after all. The future is ours, lets change history together for the benefit of
+        mankind and for its many, many inhabitants on our lush-green watery world called Earth.
+
+        Take care, and unleash your hidden potential to the fullest
+        Sincerly,
+        ~ JA
+
+
