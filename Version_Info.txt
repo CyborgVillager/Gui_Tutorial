@@ -151,6 +151,7 @@ v18 Basic Pong Info: 2 new files -> On folder pong_games will contain 2 files ->
 v19 Pong Game: full version of Pong game tutorial complete feel free to check out the link to see more ->
         https://kivy.org/doc/stable/tutorials/pong.html, will now work on refreshing the basics from kivy_app_tutorial_00
         after that will work on the project
+----------------------------    ----------------------------   ------------------------- ------------------------------
 --v20 Forked Kivy: forked kivy onto this project, will be using the forked, and the fall semester as a
                     reference when working on the project, Will create a new respo called Kivy_Project0.
                     This will be a test run on re-learning the ropes
